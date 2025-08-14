@@ -5,9 +5,9 @@ fun fact about me :)
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Danchick2815?v=4" width="150px"/>
+  <img src="[https://avatars.githubusercontent.com/u/Danchick2815?v=4](https://avatars.githubusercontent.com/u/174360946?v=4)" width="150px"/>
   <br />
-  <b>@Danchick2815</b>
+  <b>Danchick2815</b>
 </p>
 
 
